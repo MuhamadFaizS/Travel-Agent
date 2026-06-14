@@ -1,2 +1,9 @@
 # Travel-Agent
 Hacktiv8 Travel Agent AI
+travel-agent-bot/
+│
+├── travel_bot.py          # File utama kode program
+├── requirements.txt       # Daftar library/modul yang dibutuhkan
+├── .env                   # File untuk menyimpan API Key (JANGAN di-upload ke GitHub)
+├── .gitignore             # File untuk mengabaikan .env agar tidak ter-upload
+└── README.md              # Dokumentasi project untuk GitHub
